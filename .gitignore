@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Problems/Find the max of three numbers/out/
+/Problems/Find the max of three numbers/out/production/classes/
+/Problems/Swap the columns/out/
+/Problems/Swap the columns/out/production/classes/
+/Problems/The star figure/out/
+/Problems/The star figure/out/production/classes/
